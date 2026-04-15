@@ -1,7 +1,0 @@
----
-# Default variables for Lighthouse
-lighthouse_repo: "https://github.com/VKCOM/lighthouse.git"
-lighthouse_version: master
-lighthouse_dir: /var/www/lighthouse
-nginx_conf_dir: /etc/nginx/conf.d
-nginx_server_name: _

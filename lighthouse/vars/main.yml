@@ -1,4 +1,0 @@
----
-# High priority variables for Lighthouse
-lighthouse_selinux_context: httpd_sys_content_t
-lighthouse_selinux_boolean: httpd_read_user_content
